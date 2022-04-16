@@ -1,3 +1,7 @@
+## 2.0.2
+
+* Updated dependencies so it can compile on latest flutter
+
 ## 2.0.1
 * PDF thumbnail optimalization (SergeShkurko)
 
